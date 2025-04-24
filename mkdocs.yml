@@ -1,4 +1,5 @@
 site_name: ELA HOME
+site_url: https://sotarotakano.github.io/ela-home-docs/
 theme: readthedocs
 nav:
     - Home: index.md
