@@ -70,25 +70,27 @@ across environmental gradients." Ecological Monographs.<br>
 <https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecm.1469>
 
 ## ELA in journal articles
-<div style="display: flex; justify-content: space-around; text-align: center; gap: 20px;">
+Representative articles using ELA packages.
+
+<div style="display: flex; justify-content: space-around; text-align: center; gap: 10px;">
 
   <div>
     <a href="https://www.pnas.org/doi/10.1073/pnas.2422701122" target="_blank">
-      <img src="images/PNAS2025.png" alt="PNAS,2025" width="100">
+      <img src="images/PNAS2025.png" alt="PNAS,2025" width="300">
       <div>PNAS, 2025</div>
     </a>
   </div>
 
   <div>
     <a href="https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-023-01474-5" target="_blank">
-      <img src="images/Microbiome2023.png" alt="Microbiome,2023" width="100">
+      <img src="images/Microbiome2023.png" alt="Microbiome,2023" width="300">
       <div>Microbiome, 2023</div>
     </a>
   </div>
 
   <div>
     <a href="https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1469" target="_blank">
-      <img src="images/EcoMono2021.png" alt="EcologicalMonographs,2021" width="100">
+      <img src="images/EcoMono2021.png" alt="EcologicalMonographs,2021" width="300">
       <div>Ecological Monographs, 2021</div>
     </a>
   </div>
