@@ -1,4 +1,8 @@
-# Welcome to ELA doumentation!
+# Welcome to ELA portal page!
+
+<p align="center">
+  <img src="images/ELA_7bgy.png" alt="ELA logo" width="400">
+</p>
 
 ## Introduction
 Energy landscape analysis (ELA) is a systematic method for analyzing an energy landscape represented as a weighted network (Fig. 1).<br>
@@ -63,13 +67,15 @@ Download the package from the github page and run in the Mathematica environment
 **For details see: <https://github.com/kecosz/ela>**
 
 
-## Cite us
+## References and Citations
+### Main publication
 Suzuki, K., Nakaoka, S., Fukuda, S., & Masuya, H. (2021).
 "Energy landscape analysis elucidates the multistability of ecological communities 
 across environmental gradients." Ecological Monographs.<br>
 <https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecm.1469>
 
-## ELA in journal articles
+
+### ELA in journal articles
 Representative articles using ELA packages.
 
 <div style="display: flex; justify-content: space-around; text-align: center; gap: 10px;">
@@ -94,5 +100,14 @@ Representative articles using ELA packages.
       <div>Ecological Monographs, 2021</div>
     </a>
   </div>
-
 </div>
+
+
+<br>
+
+### Citations
+<p align="left">
+  <img src="images/totalcitation.png" alt="total citations" width="600">
+</p>
+[The full article list citing ELA or the related papers.](citations.md)<br>
+<br><br>Data collection is conducted using the [OpenCitations](https://opencitations.net) platform.

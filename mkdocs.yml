@@ -1,6 +1,7 @@
-site_name: ELA HOME
+site_name: ELA PORTAL
 site_url: https://sotarotakano.github.io/ela-home-docs/
-theme: readthedocs
+theme:
+    name: readthedocs
 nav:
     - Home: index.md
-
+    - Cited by: citations.md
