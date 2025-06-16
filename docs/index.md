@@ -1,7 +1,7 @@
 # Welcome to ELA portal page!
 
 <p align="center">
-  <img src="images/ELA_7bgy.png" alt="ELA logo" width="400">
+  <img src="images/logo_ELA_latest.png" alt="ELA logo" width="400">
 </p>
 
 ## Introduction
