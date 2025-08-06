@@ -52,7 +52,7 @@ R package of ELA is currently available on Windows, Mac(including arm64), and Li
 The package is not currently distributed via repositories and can be only installed from 
 a local file after the download. <br>
 
-**For details see: <https://github.com/kecosz/rELA.>**
+**For details see: <https://github.com/kecosz/rELA>**
 
 ### Python package
 Python package of ELA is currently available only on Mac(including arm64) or Linux.<br>
