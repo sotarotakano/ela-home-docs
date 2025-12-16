@@ -5,3 +5,7 @@ theme:
 nav:
     - Home: index.md
     - Cited by: citations.md
+extra:
+  analytics:
+    provider: google
+    property: G-WRRLXDCD9W
