@@ -110,4 +110,4 @@ Representative articles using ELA packages.
   <img src="images/totalcitation.png" alt="total citations" width="600">
 </p>
 [The full article list citing ELA or the related papers.](citations.md)<br>
-<br><br>Data collection is conducted using the [OpenCitations](https://opencitations.net) platform.
+<br><br>Data collection is conducted using the [SeraAPI](https://serpapi.com/) platform.
