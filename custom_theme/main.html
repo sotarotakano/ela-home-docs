@@ -1,4 +1,7 @@
 <!-- Google tag (gtag.js) -->
+{% extends "base.html" %}
+{% block extrahead %}
+  {{ super() }}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-WRRLXDCD9W"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -7,3 +10,4 @@
 
   gtag('config', 'G-WRRLXDCD9W');
 </script>
+{% endblock %}
